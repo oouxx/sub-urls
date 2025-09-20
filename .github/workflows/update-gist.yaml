@@ -17,7 +17,8 @@ jobs:
           rm -f data.txt
           for url in $URLS; do
             echo ">>> Fetching: $url"
-            resp=$(curl -sL "$url" || echo "")
+            resp=$(curl -sL "$url")
+            echo "$resp" | head -n 20 
             echo "$resp" >> data.txt
             echo "" >> data.txt
           done
@@ -34,7 +35,7 @@ jobs:
 
           # 直接用 jq 构造完整 JSON
           JSON=$(jq -n --arg fileContent "$(<data.txt)" \
-                       '{"files": {"subscription.txt": {"content": $fileContent}}}')
+                       '{"files": {"gistfile1.txt": {"content": $fileContent}}}')
 
           echo "=== JSON Payload Preview ==="
           echo "$JSON" | jq .
