@@ -29,9 +29,18 @@ jobs:
           GIST_ID: 5e7582498cbfb728fbcd3c07baa7f136   # 👉 替换成你的 Gist ID
           GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }}
         run: |
+          # 生成 JSON-safe 的内容
           CONTENT=$(jq -Rs . < data.txt)
-          curl -X PATCH \
+
+          # 直接用 jq 构造完整 JSON
+          JSON=$(jq -n --arg fileContent "$(<data.txt)" \
+                       '{"files": {"subscription.txt": {"content": $fileContent}}}')
+
+          echo "=== JSON Payload Preview ==="
+          echo "$JSON" | jq .
+
+          curl -s -X PATCH \
             -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/gists/$GIST_ID \
-            -d "{\"files\": {\"subscription.txt\": {\"content\": $CONTENT}}}"
+            -d "$JSON"
