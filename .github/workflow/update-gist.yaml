@@ -1,0 +1,37 @@
+name: Update Gist with Remote Data
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 每6小时运行一次
+  workflow_dispatch:        # 手动触发
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetch data from URL list
+        env:
+          URLS: ${{ vars.URLS }}
+        run: |
+          rm -f data.txt
+          for url in $URLS; do
+            echo ">>> Fetching: $url"
+            resp=$(curl -sL "$url" || echo "")
+            echo "$resp" >> data.txt
+            echo "" >> data.txt
+          done
+          echo "=== 拼接后的文件预览 ==="
+          head -n 20 data.txt
+
+      - name: Update Gist
+        env:
+          GIST_ID: 5e7582498cbfb728fbcd3c07baa7f136   # 👉 替换成你的 Gist ID
+          GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: |
+          CONTENT=$(jq -Rs . < data.txt)
+          curl -X PATCH \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/gists/$GIST_ID \
+            -d "{\"files\": {\"subscription.txt\": {\"content\": $CONTENT}}}"
