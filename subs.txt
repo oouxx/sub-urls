@@ -1,30 +1,5 @@
-https://www.paofusub2.com/link/UhYmljLve9J9DR9K?clash=1
-# 以下占位
 
-https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt
-https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
-https://raw.githubusercontent.com/clashconfig/online/main/SurfShark(34687).yml
-https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/freebaipiaov2.txt
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://raw.githubusercontent.com/hotsymbol/vpnsetting/master/v2rayopen
-https://raw.githubusercontent.com/liqiangsheng67/mianfeijiedianfenxiang/main/Attend_To/v2ray-301US
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml
-https://raw.githubusercontent.com/mzh058/chenx/main/clash
-https://raw.githubusercontent.com/qwer-search/Sub/main/clash.yaml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
-https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
-https://raw.githubusercontent.com/vpnproxy66/Clash/main/Clash.yml
-https://raw.githubusercontent.com/RaymondHarris971/ssrsub/master/9a075bdee5.txt
-https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
-https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt
-https://raw.githubusercontent.com/hotsymbol/vpnsetting/master/v2rayopen
-https://raw.githubusercontent.com/vpnproxy66/Clash/main/Clash.yml
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/freebaipiaov2.txt
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/liqiangsheng67/mianfeijiedianfenxiang/main/Attend_To/v2ray-301US
-https://raw.githubusercontent.com/qwer-search/Sub/main/clash.yaml
-https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml
-
