@@ -27,9 +27,7 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
 https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity.yml
-https://raw.githubusercontent.com/zengfr/free-vpn-subscribe/main/vpn_sub_shadowsocks.txt
-https://raw.githubusercontent.com/zengfr/free-vpn-subscribe/main/vpn_sub_vmess.txt
-https://raw.githubusercontent.com/zengfr/free-vpn-subscribe/main/vpn_sub_trojan.txt
+
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vmess.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/trojan.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/ss.txt
@@ -38,7 +36,6 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
 https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-https://raw.githubusercontent.com/dongyubin/Free-AppleId-Serve/main/
 https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/All_Configs_Sub.txt
 
 
