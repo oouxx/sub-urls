@@ -24,17 +24,7 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
-
-
-https://xbd.iftballs.com/api/v1/client/subscribe?token=fb101e241426cfb652bc42d774ebbe22
-https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
-https://pastecode.dev/raw/070syyrm/token=007
-https://disk.xlz767.dpdns.org/down.php/a1882037bdaba1d26ffd0aa0df0706ce.txt
-https://pastee.dev/r/8JpY4S2y
-https://rahimvipvpn.sadrafantezi.workers.dev/public?ports=80,443,8080,8443,2052,2053,2095,2096&protocol=vless&limit=all
-https://rahi-eq3.pages.dev/api/configs?limit=all
 https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/All_Configs_Sub.txt
-
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity.yml
 https://raw.githubusercontent.com/zengfr/free-vpn-subscribe/main/vpn_sub_shadowsocks.txt
@@ -49,12 +39,9 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/dongyubin/Free-AppleId-Serve/main/
-
 https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/All_Configs_Sub.txt
 
-https://disk.xlz767.dpdns.org/down.php/a8e2fb88d3979731d1b6a6319fcb5778.txt
-https://hero-apk-068ef894e1fb.herokuapp.com/sub
-https://cloud-ed007927-d805646b27cb.herokuapp.com/sub
+
 
 # copy from beck
 # 可以包含github和非github
@@ -78,3 +65,9 @@ https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/6V2ray
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray/v2rayshare.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/clash/naidounode.txt
+
+https://raw.githubusercontent.com/10ium/V2Hub3/main/merged
+https://raw.githubusercontent.com/XQFXS/mfjd/refs/heads/main/%E5%B0%8F%E4%B8%83%E5%88%86%E4%BA%AB%E7%A4%BE%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB
+
+https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/mihomo.yaml
+https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/45a4616a347cf5998fd9ef83d41d8a91ff314bc6/all.yaml
