@@ -1,6 +1,5 @@
 https://raw.githubusercontent.com/ccpthisbigdog/freedomchina/refs/heads/main/subdom.txt
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
-https://raw.githubusercontent.com/nodesfree/clashnode/refs/heads/main/subscribe/clash.yml
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash.yml
@@ -35,7 +34,6 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
 https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/All_Configs_Sub.txt
 
 
@@ -55,7 +53,6 @@ https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
 https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml
-https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
 https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt
 https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/6V2ray
