@@ -51,7 +51,6 @@ https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/actionsfz/v2ray/master/all.yaml
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt
-https://raw.githubusercontent.com/ggborr/FREEE-VPN/main/6V2ray
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
