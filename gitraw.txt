@@ -86,7 +86,6 @@ https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_y
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/README.md
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml
 https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
@@ -98,9 +97,7 @@ https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/actionsfz/v2ray/master/all.yaml
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt
-https://raw.githubusercontent.com/ggborr/FREEE-VPN/main/6V2ray
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
@@ -110,7 +107,6 @@ https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray/v2rayshare.t
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/mheidari98/.proxy/main/all
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/PangTouY00/Auto_proxy/main/Long_term_subscription_num

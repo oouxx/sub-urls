@@ -4,12 +4,9 @@ https://rahi-eq3.pages.dev/api/configs?limit=all
 https://oeo-3pb.pages.dev/oeo
 https://www.xrayvip.com/free.yaml
 https://rigengjiedian.one/api/system/subscribe
-https://xyfqzy.zone.id/yyds/auto
-https://mar.haxtop.ggff.net/?sub
 https://snippets.o00o.ooo/vless
 https://rss.zyfx6.xyz/v2rayNG/
 https://ovo.subikun.nyc.mn/
-https://sub.pusytroller.cf
 https://rigengjiedian.one/api/system/subscribe
 
 
@@ -33,5 +30,3 @@ https://free-v2raynode.github.io/uploads/{Y}/{m}/4-{Ymd}.yaml
 https://mxlsub.qzz.io/free
 https://ctp.ct8.pl/9002.yaml
 https://rss.zyfx6.xyz/clash/
-http://107.173.178.139:8080/config1.yaml
-https://yuetu2.com/link/kLqYEuWVTOoU63Oj?mu=1
