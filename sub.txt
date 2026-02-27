@@ -1,3 +1,4 @@
+https://198.16.63.200/xbsub?token=cb4ecb008923efba39841b2eba8b35ea
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=bbc737282de38d91c9435a7f10be8ed2
 https://dash.djjc.cfd/api/v1/client/subscribe?token=61dd09058cd2e7bb292f2642ba6c5404
 https://kitty.su/#/register?code=61Rj4Fl4
