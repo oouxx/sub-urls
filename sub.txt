@@ -4,6 +4,7 @@ https://dash.djjc.cfd/api/v1/client/subscribe?token=61dd09058cd2e7bb292f2642ba6c
 https://edge.121018.de5.net/sub?token=b5739d81fe729c730b096800982265eb
 https://kitty.su/#/register?code=61Rj4Fl4
 https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c2f71f878
 https://pwac.gzi8998-ddns0721.eu/api/v1/gzcloud/subscribe?token=7c5674138d7cedccb09ddd77ec7883aa
 https://qybndbviblvt.us-west-1.clawcloudrun.com/api/v1/subscribe?to
 https://qybndbviblvt.us-west-1.clawcloudrun.com/api/v1/subscribe?token=u0bt57u81cui2
