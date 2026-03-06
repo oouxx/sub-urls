@@ -15,7 +15,6 @@ https://mojie.app/api/v1/client/subscribe?token=8cc989301c872b6b23c7b27d7af23783
 https://mojie.app/api/v1/client/subscribe?token=a23f561a483e942ffe8e5eba06c4e174
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c2f71f878
 https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f
-https://pwac.gzi8998-ddns0721.eu/api/v1/gzcloud/subscribe?token=5305fd33c9981e5d9411878fe06f9475
 https://shz.al
 https://shz.al/42BQ
 https://shz.al/7tXa
@@ -40,6 +39,7 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=3d6d00a04e0a6409843d260cd6f
 https://suba.f2vip.net/api/v1/client/subscribe?token=3d7311d34ddfb110762544bf2916bac0
 https://suba.f2vip.net/api/v1/client/subscribe?token=491648270cf45856c60c142112ed2cdf
 https://suba.f2vip.net/api/v1/client/subscribe?token=b25280beeeca8feefa6cb4412c6f4aa0
+https://suba.f2vip.net/api/v1/client/subscribe?token=f42525348eec85c2398c74900020764a
 https://suba.f2vip.net/api/v1/client/subscribe?token=ffd65f2cd64fa59eadc3d6763d8ca8dd
 https://subscribe003.awsy.top/subscribego/d05c5c39286c38bc1e2c752b63e336aa
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
