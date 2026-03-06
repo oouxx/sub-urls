@@ -40,6 +40,7 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=2807f408045a41254765edd6ad6
 https://suba.f2vip.net/api/v1/client/subscribe?token=3d6d00a04e0a6409843d260cd6fd93dd
 https://suba.f2vip.net/api/v1/client/subscribe?token=3d7311d34ddfb110762544bf2916bac0
 https://suba.f2vip.net/api/v1/client/subscribe?token=491648270cf45856c60c142112ed2cdf
+https://suba.f2vip.net/api/v1/client/subscribe?token=8d50c7b849fc4e32c4271f8968f2dbaa
 https://suba.f2vip.net/api/v1/client/subscribe?token=b25280beeeca8feefa6cb4412c6f4aa0
 https://suba.f2vip.net/api/v1/client/subscribe?token=f42525348eec85c2398c74900020764a
 https://suba.f2vip.net/api/v1/client/subscribe?token=ffd65f2cd64fa59eadc3d6763d8ca8dd
