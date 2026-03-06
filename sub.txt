@@ -36,6 +36,7 @@ https://shz.al/x3te协议类型:
 https://shz.al/xbeN
 https://shz.al/YGwR
 https://suba.f2vip.net/api/v1/client/subscribe?token=06dd0002364ca230a2c02189650fa8a9
+https://suba.f2vip.net/api/v1/client/subscribe?token=2807f408045a41254765edd6ad63aa45
 https://suba.f2vip.net/api/v1/client/subscribe?token=3d6d00a04e0a6409843d260cd6fd93dd
 https://suba.f2vip.net/api/v1/client/subscribe?token=3d7311d34ddfb110762544bf2916bac0
 https://suba.f2vip.net/api/v1/client/subscribe?token=491648270cf45856c60c142112ed2cdf
