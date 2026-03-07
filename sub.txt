@@ -17,6 +17,7 @@ https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c
 https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f
 https://shz.al
 https://shz.al/42BQ
+https://shz.al/5RyE
 https://shz.al/7tXa
 https://shz.al/7tXa#免费节点
 https://shz.al/aJH5
