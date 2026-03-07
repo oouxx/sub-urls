@@ -15,6 +15,7 @@ https://mojie.app/api/v1/client/subscribe?token=8cc989301c872b6b23c7b27d7af23783
 https://mojie.app/api/v1/client/subscribe?token=a23f561a483e942ffe8e5eba06c4e174
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c2f71f878
 https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f
+https://scurl.izenny.com/api/v1/client/subscribe?token=a1cd8828690a4cbb90bcf5819df5b39d
 https://shz.al
 https://shz.al/42BQ
 https://shz.al/5RyE
@@ -38,11 +39,9 @@ https://shz.al/S2bb
 https://shz.al/x3te协议类型:
 https://shz.al/xbeN
 https://shz.al/YGwR
-https://suba.f2vip.net/api/v1/client/subscribe?token=2807f408045a41254765edd6ad63aa45
 https://suba.f2vip.net/api/v1/client/subscribe?token=491648270cf45856c60c142112ed2cdf
 https://suba.f2vip.net/api/v1/client/subscribe?token=8d50c7b849fc4e32c4271f8968f2dbaa
 https://suba.f2vip.net/api/v1/client/subscribe?token=b25280beeeca8feefa6cb4412c6f4aa0
-https://suba.f2vip.net/api/v1/client/subscribe?token=f42525348eec85c2398c74900020764a
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://v2clash.blog/Link/20260304-v2ray.txt
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
