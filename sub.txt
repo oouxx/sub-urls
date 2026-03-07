@@ -5,6 +5,7 @@ https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=b0b4156eff
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=bbc737282de38d91c9435a7f10be8ed2
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=deac465224921e593d9940b2c6ed2ccd
 https://carrot.kuaitucloud.top/ktc/428/ck/d78c0ccb0e7a699b3b56820206a2bf16
+https://cf-workers-sub-7zh.pages.dev/sub?token=7cd112216732c8db34cb6810f01bc778
 https://github.com/Archeb/opentrace/releases/tag/v1.5.1
 https://github.com/lapismyt/telegram_gifts_sniper?hl=zh-CN
 https://github.com/whyvl/wireproxy
