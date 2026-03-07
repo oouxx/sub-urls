@@ -39,9 +39,7 @@ https://shz.al/S2bb
 https://shz.al/x3te协议类型:
 https://shz.al/xbeN
 https://shz.al/YGwR
-https://suba.f2vip.net/api/v1/client/subscribe?token=491648270cf45856c60c142112ed2cdf
 https://suba.f2vip.net/api/v1/client/subscribe?token=8d50c7b849fc4e32c4271f8968f2dbaa
-https://suba.f2vip.net/api/v1/client/subscribe?token=b25280beeeca8feefa6cb4412c6f4aa0
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://v2clash.blog/Link/20260304-v2ray.txt
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
