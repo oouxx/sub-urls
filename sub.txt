@@ -14,6 +14,7 @@ https://mojie.app/api/v1/client/subscribe?token=8cc989301c872b6b23c7b27d7af23783
 https://mojie.app/api/v1/client/subscribe?token=a23f561a483e942ffe8e5eba06c4e174
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c2f71f878
 https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f
+https://scurl.izenny.com/api/v1/client/subscribe?token=a1cd8828690a4cbb90bcf5819df5b39d
 https://shz.al
 https://shz.al/42BQ
 https://shz.al/5RyE
