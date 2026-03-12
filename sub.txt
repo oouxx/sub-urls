@@ -1,4 +1,3 @@
-https://198.16.63.200/xbsub?token=cb4ecb008923efba39841b2eba8b35ea
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0b17d249fee3e832cffba63d86bb65ae
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=3a55d13d92820e6b3da2e531eb3b7f42
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
