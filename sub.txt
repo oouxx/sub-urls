@@ -19,7 +19,6 @@ https://github.com/Archeb/opentrace/releases/tag/v1.5.1
 https://github.com/lapismyt/telegram_gifts_sniper?hl=zh-CN
 https://github.com/whyvl/wireproxy
 https://golden57.qjty.buzz/api/v2/user/token/4411a1d4c77f94d216ff9aa108cbc822
-https://home.liukun.com:8443/Projects/Aggregator/api/subscribe?clash=1
 https://home.liukun.com:8443/Projects/Aggregator/api/subscribe?clash=1订阅流量：100
 https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
 https://mojie.app/api/v1/client/subscribe?token=3ab3b40b8acf9aacf261c4d58707546f
