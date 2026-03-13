@@ -69,8 +69,6 @@ https://shz.al/YyWE协议类型:
 https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://steel68.qjty.buzz/api/v2/user/token/949a9f99a4d8b4a7432ae040d5b8955d
-https://suba.f2vip.net/api/v1/client/subscribe?token=8d50c7b849fc4e32c4271f8968f2dbaa
-https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b5212b
 https://sub.pusytroller.cf/?url=freenodes
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://v2clash.blog/Link/20260304-v2ray.txt
