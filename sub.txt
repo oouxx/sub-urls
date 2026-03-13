@@ -1,7 +1,6 @@
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0b17d249fee3e832cffba63d86bb65ae
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=14a1ffb991ea64536cc8f3a7946bb1d7
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=3a55d13d92820e6b3da2e531eb3b7f42
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a81302dacfcffc462172ed5b809f6571
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
 https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=1b48cf2fa8dc9f82320ae4eee0ced146
 https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=61209aaa9630ff99457b6d4596741cbb
@@ -55,6 +54,7 @@ https://shz.al/HTFE
 https://shz.al/HTFE协议类型:
 https://shz.al/kpM5
 https://shz.al/kpM5协议类型:
+https://shz.al/mAk4
 https://shz.al/mnA5
 https://shz.al/mnhB
 https://shz.al/mnhB协议类型:
