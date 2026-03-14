@@ -1,3 +1,4 @@
+http://154.17.23.118:3385/api/v1/client/subscribe?token=8465a38a35b10035f83923ed136e52d1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0b17d249fee3e832cffba63d86bb65ae
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=14a1ffb991ea64536cc8f3a7946bb1d7
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=3a55d13d92820e6b3da2e531eb3b7f42
