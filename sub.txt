@@ -2,6 +2,7 @@ http://154.17.23.118:3385/api/v1/client/subscribe?token=8465a38a35b10035f83923ed
 https://01d.dklineo.top/api/dktv?token=bf695b505e13b9ee11aaccd51a2ac00f
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0b17d249fee3e832cffba63d86bb65ae
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=14a1ffb991ea64536cc8f3a7946bb1d7
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=9d08a3ec6d1545e46a065666703c97aa
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=021169d63fa7310920d91416d07489a1
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=4b818b72dc209e53d787d48bdd5a0ef2
