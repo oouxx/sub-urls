@@ -2,14 +2,6 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0b17d249fee3e832cffb
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=14a1ffb991ea64536cc8f3a7946bb1d7
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=3a55d13d92820e6b3da2e531eb3b7f42
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
-https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=1b48cf2fa8dc9f82320ae4eee0ced146
-https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=61209aaa9630ff99457b6d4596741cbb
-https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=7abb2c72b03a0423fa43c3af2ca032ae
-https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=866d80b875952eb6cc89a967411eac48
-https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=d8304343ae7c3ef2fae9f0769ac277dd
-https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=e869f838d683df5fa175483e0d722b72
-https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=ee10a45e406c021f79cce0a5f8b0e7fd
-https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=f4310d72fdf766cceb16d7cd2d054f83
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=021169d63fa7310920d91416d07489a1
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=4b818b72dc209e53d787d48bdd5a0ef2
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=b0b4156eff5ab883e5d34543e80ab64b
