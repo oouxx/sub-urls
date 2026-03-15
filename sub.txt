@@ -1,5 +1,3 @@
-http://154.17.23.118:3385/api/v1/client/subscribe?token=8465a38a35b10035f83923ed136e52d1
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0b17d249fee3e832cffba63d86bb65ae
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=14a1ffb991ea64536cc8f3a7946bb1d7
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
 https://api-jx.02000.xin/jx?token=44767d451e35779c02fa0f94ac21155e
@@ -88,4 +86,3 @@ https://www.xrayvip.com/free.txt
 https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07
 https://xn--ehqa22b.site/s/694d94f9517962ea50aa992691af4096
 https://ytsub.top/v2.php?key=eyJwb3J0IjoyOTM3MSwicGFzc3dvcmQiOiI0ZjNhOTgwZiIsImFwcCI6InNoYWRvd3JvY2tldCJ9
-http://xazhouyi.com/downand/and.html
