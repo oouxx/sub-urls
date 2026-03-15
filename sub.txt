@@ -4,6 +4,7 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=14a1ffb991ea64536cc8
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=9d08a3ec6d1545e46a065666703c97aa
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
 https://api-jx.02000.xin/jx?token=44767d451e35779c02fa0f94ac21155e
+https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=017d2948bb3a729f11c59e7fa687d9f8
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=021169d63fa7310920d91416d07489a1
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=4b818b72dc209e53d787d48bdd5a0ef2
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=b0b4156eff5ab883e5d34543e80ab64b
@@ -73,6 +74,7 @@ https://shz.al/YyWE协议类型:
 https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://steel68.qjty.buzz/api/v2/user/token/949a9f99a4d8b4a7432ae040d5b8955d
+https://suba.f2vip.net/api/v1/client/subscribe?token=9df8f2f225bbabf679b1b02a871e5751
 https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b5212b
 https://sub.pusytroller.cf/?url=freenodes
 https://v2clash.blog/Link/20260304-v2ray.txt
