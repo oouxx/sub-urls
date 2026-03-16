@@ -1,6 +1,4 @@
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=57674bacb3feba7523ebb813db205a18
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=9d08a3ec6d1545e46a065666703c97aa
 https://api-jx.02000.xin/jx?token=44767d451e35779c02fa0f94ac21155e
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=017d2948bb3a729f11c59e7fa687d9f8
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=021169d63fa7310920d91416d07489a1
