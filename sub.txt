@@ -1,3 +1,4 @@
+https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=14a1ffb991ea64536cc8f3a7946bb1d7
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
 https://api-jx.02000.xin/jx?token=44767d451e35779c02fa0f94ac21155e
@@ -19,9 +20,10 @@ https://golden57.qjty.buzz/api/v2/user/token/4411a1d4c77f94d216ff9aa108cbc822
 https://igdux.top/GdTz
 https://luosiqimeng.freegangkou.top/freegangkou/2c5e56a3ce2872e197fe4ce11b7e45e6
 https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
-https://mojie.app/api/v1/client/subscribe?token=3ab3b40b8acf9aacf261c4d58707546f
-https://mojie.app/api/v1/client/subscribe?token=8cc989301c872b6b23c7b27d7af23783
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=0a41b48043e814f44ad5ceb945556e6a
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=1e05fabfae3c66124118c412ffcb088a
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c2f71f878
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=92942c65436f4185cc28ebb48fdd2708
 https://packet32.qjty.buzz/api/v2/user/token/ff1679f7a830ab760db281c5c6289938
 https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f
 https://rs6.r6r6.xyz/b/BjaImsF
@@ -77,6 +79,8 @@ https://shz.al/ZWz7协议类型:
 https://steel68.qjty.buzz/api/v2/user/token/949a9f99a4d8b4a7432ae040d5b8955d
 https://suba.f2vip.net/api/v1/client/subscribe?token=9df8f2f225bbabf679b1b02a871e5751
 https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b5212b
+https://sub.flashcat.online/s/197ca902c88f8b22487127fc79b24eb8
+https://sub.flashcat.online/s/5216a39d51c732ad3bcc27c2527eee04
 https://sub.pusytroller.cf/?url=freenodes
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://v2clash.blog/Link/20260304-v2ray.txt
@@ -84,5 +88,12 @@ https://v2clash.blog/Link/20260314-v2ray.txt
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
 https://www.xrayvip.com/free.txt
 https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07
+https://xn--ehqa22b.site/s/21cce7e20781659de73534063f69168f
 https://xn--ehqa22b.site/s/694d94f9517962ea50aa992691af4096
+https://xn--ehqa22b.site/s/69b787c9a93a8b55cf79fef79fe07467
+https://xn--ehqa22b.site/s/75afe126ea2eff563346d395a521dde9
+https://xn--ehqa22b.site/s/904cbc080e6ffa3898e71edc91fd46df
+https://xn--ehqa22b.site/s/9602e434cc07b69bcbbabc963a3559c6
+https://xn--ehqa22b.site/s/b7095ee58c1457364d7a23f7c272cecd
+https://xn--ehqa22b.site/s/e77f2ede08ca137704937ce2e7817270
 https://ytsub.top/v2.php?key=eyJwb3J0IjoyOTM3MSwicGFzc3dvcmQiOiI0ZjNhOTgwZiIsImFwcCI6InNoYWRvd3JvY2tldCJ9
