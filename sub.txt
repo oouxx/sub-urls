@@ -8,6 +8,7 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a3df9be823a46117007b
 https://api-jx.02000.xin/jx?token=44767d451e35779c02fa0f94ac21155e
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=017d2948bb3a729f11c59e7fa687d9f8
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=021169d63fa7310920d91416d07489a1
+https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=3e5fce6bd02a10e626d3f80be416cc0b
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=4b818b72dc209e53d787d48bdd5a0ef2
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=b0b4156eff5ab883e5d34543e80ab64b
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=b7b3d4762193996497d2975dc81c08a2
@@ -100,6 +101,7 @@ https://v2clash.blog/Link/20260304-v2ray.txt
 https://v2clash.blog/Link/20260314-v2ray.txt
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
 https://www.xrayvip.com/free.txt
+https://wylztxfq.qjty1.buzz/api/v2/user/token/308e6ee53eee87937f3a8c5c61b09b5c
 https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07
 https://xhe.indevs.in/sub
 https://xn--ehqa22b.site/s/0054e4b93355f3db00b666ff1ac09b61
