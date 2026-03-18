@@ -1,4 +1,5 @@
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=019ac409d5b5ed2823345be3f4fc1e47
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c026d8a00963c
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=8bee51982e01f1c06ddf208d6bff4517
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e5911069f969fdf84795b6b96647eb21
@@ -115,6 +116,7 @@ https://xn--ehqa22b.site/s/69b787c9a93a8b55cf79fef79fe07467
 https://xn--ehqa22b.site/s/6b31cd5acd765a8a2fe64aa3ea35496e
 https://xn--ehqa22b.site/s/75afe126ea2eff563346d395a521dde9
 https://xn--ehqa22b.site/s/79810d4716cf08198dd83f27103a6407
+https://xn--ehqa22b.site/s/89c9e196e3656025d53c64d6393cb055
 https://xn--ehqa22b.site/s/8c4f9ecc50b9332eb130bfc15e17e98e
 https://xn--ehqa22b.site/s/904cbc080e6ffa3898e71edc91fd46df
 https://xn--ehqa22b.site/s/95d4ddb3a2730c82cfa096b4034ba372
@@ -125,6 +127,7 @@ https://xn--ehqa22b.site/s/b0992020123d9882a19db4518d2d9581
 https://xn--ehqa22b.site/s/b7095ee58c1457364d7a23f7c272cecd
 https://xn--ehqa22b.site/s/d18b4737fa83a88ac026cee0f420aaa1
 https://xn--ehqa22b.site/s/d1d6e41c257a9b393a737669fac569ca
+https://xn--ehqa22b.site/s/d3b38b5b49953a9b5ccbe0bba8c1ac2e
 https://xn--ehqa22b.site/s/e008737314543a631bb6425c2f4fbda5
 https://xn--ehqa22b.site/s/e77f2ede08ca137704937ce2e7817270
 https://xn--ehqa22b.site/s/ebf3cb9f5a5fd6ed9c20d134c9ea6388
