@@ -27,6 +27,7 @@ https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=92942c65436f4185cc28ebb48fdd2708
 https://packet32.qjty.buzz/api/v2/user/token/ff1679f7a830ab760db281c5c6289938
 https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://rs6.r6r6.xyz/b/BjaImsF
 https://rs6.r6r6.xyz/c/FIiBGpH
 https://rs6.r6r6.xyz/c/gzTLzQK
