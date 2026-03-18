@@ -1,4 +1,7 @@
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c026d8a00963c
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=8bee51982e01f1c06ddf208d6bff4517
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e5911069f969fdf84795b6b96647eb21
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=017d2948bb3a729f11c59e7fa687d9f8
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=021169d63fa7310920d91416d07489a1
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=3e5fce6bd02a10e626d3f80be416cc0b
@@ -112,9 +115,13 @@ https://xn--ehqa22b.site/s/69b787c9a93a8b55cf79fef79fe07467
 https://xn--ehqa22b.site/s/6b31cd5acd765a8a2fe64aa3ea35496e
 https://xn--ehqa22b.site/s/75afe126ea2eff563346d395a521dde9
 https://xn--ehqa22b.site/s/79810d4716cf08198dd83f27103a6407
+https://xn--ehqa22b.site/s/8c4f9ecc50b9332eb130bfc15e17e98e
 https://xn--ehqa22b.site/s/904cbc080e6ffa3898e71edc91fd46df
+https://xn--ehqa22b.site/s/95d4ddb3a2730c82cfa096b4034ba372
 https://xn--ehqa22b.site/s/9602e434cc07b69bcbbabc963a3559c6
+https://xn--ehqa22b.site/s/96deeff9346f48005a4c6e1b9ecad36a
 https://xn--ehqa22b.site/s/9f172c3c59a81fb85b5047741e596d2f
+https://xn--ehqa22b.site/s/b0992020123d9882a19db4518d2d9581
 https://xn--ehqa22b.site/s/b7095ee58c1457364d7a23f7c272cecd
 https://xn--ehqa22b.site/s/d18b4737fa83a88ac026cee0f420aaa1
 https://xn--ehqa22b.site/s/d1d6e41c257a9b393a737669fac569ca
