@@ -1,6 +1,7 @@
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=019ac409d5b5ed2823345be3f4fc1e47
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=054c380fb822f328d4d8d156ad8cdd79
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=172a32a796b41b77cc7216cafd2d8c8e
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=1ce1de5d416527803f797684b951edb1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=5696548e146c08116476e1b7057214a1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7b6a2457937f04d5795939f16b37d58a
@@ -35,6 +36,7 @@ https://rs6.r6r6.xyz/b/BjaImsF
 https://rs6.r6r6.xyz/b/FIiBGpH
 https://rs6.r6r6.xyz/c/FIiBGpH
 https://rs6.r6r6.xyz/c/fiyEGkj
+https://rs6.r6r6.xyz/c/fXpnF2m
 https://rs6.r6r6.xyz/c/gzTLzQK
 https://rs6.r6r6.xyz/c/mKyBd9L
 https://rs6.r6r6.xyz/c/tXHRh9z
@@ -45,6 +47,7 @@ https://rs6.r6r6.xyz/x/aZrx6Rd
 https://rs6.r6r6.xyz/x/BjaImsF
 https://rs6.r6r6.xyz/x/FIiBGpH
 https://rs6.r6r6.xyz/x/fiyEGkj
+https://rs6.r6r6.xyz/x/fXpnF2m
 https://rs6.r6r6.xyz/x/gzTLzQK
 https://rs6.r6r6.xyz/x/mKyBd9L
 https://rs6.r6r6.xyz/x/tXHRh9z
