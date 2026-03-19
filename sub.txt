@@ -3,7 +3,6 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=019ac409d5b5ed282334
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=054c380fb822f328d4d8d156ad8cdd79
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=172a32a796b41b77cc7216cafd2d8c8e
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=1ce1de5d416527803f797684b951edb1
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=5696548e146c08116476e1b7057214a1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7b6a2457937f04d5795939f16b37d58a
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c026d8a00963c
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=017d2948bb3a729f11c59e7fa687d9f8
