@@ -8,15 +8,6 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7b6a2457937f04d57959
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7e8bacf1e068ce6480bee6cf8ce13ebf
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c026d8a00963c
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d2967eee29c50a668671674ab368ad0a
-https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=017d2948bb3a729f11c59e7fa687d9f8
-https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=021169d63fa7310920d91416d07489a1
-https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=3e5fce6bd02a10e626d3f80be416cc0b
-https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=4b818b72dc209e53d787d48bdd5a0ef2
-https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=b0b4156eff5ab883e5d34543e80ab64b
-https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=b7b3d4762193996497d2975dc81c08a2
-https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=bbc737282de38d91c9435a7f10be8ed2
-https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=c636b265ec2dc3000492b77802279ffc
-https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=deac465224921e593d9940b2c6ed2ccd
 https://carrot.kuaitucloud.top/ktc/428/ck/d78c0ccb0e7a699b3b56820206a2bf16
 https://cf-workers-sub-7zh.pages.dev/sub?token=7cd112216732c8db34cb6810f01bc778
 https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/v2fgrjk
@@ -30,7 +21,6 @@ https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=0a41b48043e814f44ad5ceb945556e6a
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=1e05fabfae3c66124118c412ffcb088a
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=604e9bcae08c996e81eef63c2f71f878
-https://onlysub.mjurl.com/api/v1/client/subscribe?token=92942c65436f4185cc28ebb48fdd2708
 https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://rs6.r6r6.xyz/b/A38Ip0g
@@ -104,6 +94,7 @@ https://shz.al/YyWE
 https://shz.al/YyWE协议类型:
 https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
+https://suba.f2vip.net/api/v1/client/subscribe?token=7191bdc5a3e36696e7eecec30ba072d8
 https://suba.f2vip.net/api/v1/client/subscribe?token=9b7e976b61988f4e1ea221618c143b41
 https://suba.f2vip.net/api/v1/client/subscribe?token=9df8f2f225bbabf679b1b02a871e5751
 https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b5212b
@@ -135,6 +126,7 @@ https://xn--ehqa22b.site/s/57314cbc616e3358e1b55f41d33790fd
 https://xn--ehqa22b.site/s/5dfea086640583edeaeccb5f60321518
 https://xn--ehqa22b.site/s/63b97d15f1306a5a38fa092c7517bf3a
 https://xn--ehqa22b.site/s/694d94f9517962ea50aa992691af4096
+https://xn--ehqa22b.site/s/6ad52c9f59495d5963eabc9c5eaa016e
 https://xn--ehqa22b.site/s/6b31cd5acd765a8a2fe64aa3ea35496e
 https://xn--ehqa22b.site/s/7959a55861fad3e87965e7eaac032510
 https://xn--ehqa22b.site/s/79810d4716cf08198dd83f27103a6407
