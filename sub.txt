@@ -1,3 +1,4 @@
+http://43.161.254.229/7cNKWc75kz2LfGPM/4350a18ce0944e58be9c2699635e2910
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=019ac409d5b5ed2823345be3f4fc1e47
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=054c380fb822f328d4d8d156ad8cdd79
@@ -6,6 +7,7 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=1ce1de5d416527803f79
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7b6a2457937f04d5795939f16b37d58a
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7e8bacf1e068ce6480bee6cf8ce13ebf
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c026d8a00963c
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d2967eee29c50a668671674ab368ad0a
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=017d2948bb3a729f11c59e7fa687d9f8
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=021169d63fa7310920d91416d07489a1
 https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=3e5fce6bd02a10e626d3f80be416cc0b
@@ -102,6 +104,7 @@ https://shz.al/YyWE
 https://shz.al/YyWE协议类型:
 https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
+https://suba.f2vip.net/api/v1/client/subscribe?token=9b7e976b61988f4e1ea221618c143b41
 https://suba.f2vip.net/api/v1/client/subscribe?token=9df8f2f225bbabf679b1b02a871e5751
 https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b5212b
 https://suba.f2vip.net/api/v1/client/subscribe?token=be5a1e934e3afebb951c83bd4ca12e6c
@@ -150,6 +153,7 @@ https://xn--ehqa22b.site/s/a6315696c11ac93d278b6fd7080802c7
 https://xn--ehqa22b.site/s/b0992020123d9882a19db4518d2d9581
 https://xn--ehqa22b.site/s/b7095ee58c1457364d7a23f7c272cecd
 https://xn--ehqa22b.site/s/bac404f854aa3f4d3e0b68ca11cd566e
+https://xn--ehqa22b.site/s/bda2eba304eda3f14fc6f3839437c691
 https://xn--ehqa22b.site/s/c07f963862d398727f0c7dcf8e49a346
 https://xn--ehqa22b.site/s/c320135e58aa84a10a17d3b8f5d062f1
 https://xn--ehqa22b.site/s/c966012cb040789caf3b9757464fe818
