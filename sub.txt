@@ -104,6 +104,7 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=9df8f2f225bbabf679b1b02a871
 https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b5212b
 https://suba.f2vip.net/api/v1/client/subscribe?token=be5a1e934e3afebb951c83bd4ca12e6c
 https://suba.f2vip.net/api/v1/client/subscribe?token=d12add60f0b2386c5af02b06a1d38658
+https://suba.f2vip.net/api/v1/client/subscribe?token=fa5edc251d0c8749211dac53aca3b2dd
 https://sub.flashcat.online/s/197ca902c88f8b22487127fc79b24eb8
 https://sub.flashcat.online/s/1e87056c52df4c4c18247798cf4c83c3
 https://sub.flashcat.online/s/5216a39d51c732ad3bcc27c2527eee04
