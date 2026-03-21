@@ -10,7 +10,6 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d2967eee29c50a668671674ab368ad0a
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d8e593088d5e20882e4d30f1cbac0125
 https://carrot.kuaitucloud.top/ktc/428/ck/d78c0ccb0e7a699b3b56820206a2bf16
-https://cf3.6881004.xyz/api/v1/client/subscribe?token=23c0f747b3b216625ba87fb17f1b10bd
 https://cf-workers-sub-7zh.pages.dev/sub?token=7cd112216732c8db34cb6810f01bc778
 https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/v2fgrjk
 https://github.com/Archeb/opentrace/releases/tag/v1.5.1
