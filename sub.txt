@@ -98,6 +98,7 @@ https://shz.al/YyWE协议类型:
 https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://suba.f2vip.net/api/v1/client/subscribe?token=7191bdc5a3e36696e7eecec30ba072d8
+https://suba.f2vip.net/api/v1/client/subscribe?token=955b011062b25daa640f363b84ceb921
 https://suba.f2vip.net/api/v1/client/subscribe?token=9b7e976b61988f4e1ea221618c143b41
 https://suba.f2vip.net/api/v1/client/subscribe?token=9df8f2f225bbabf679b1b02a871e5751
 https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b5212b
