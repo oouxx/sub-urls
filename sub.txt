@@ -5,6 +5,7 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0e79c8408345e3dbef14
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=1ce1de5d416527803f797684b951edb1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=58b0dcd1dc3ecd4f01ee9d41d44b55ea
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7b6a2457937f04d5795939f16b37d58a
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7e8bacf1e068ce6480bee6cf8ce13ebf
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c026d8a00963c
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d2967eee29c50a668671674ab368ad0a
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d8e593088d5e20882e4d30f1cbac0125
