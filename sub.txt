@@ -108,7 +108,6 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b
 https://suba.f2vip.net/api/v1/client/subscribe?token=be5a1e934e3afebb951c83bd4ca12e6c
 https://suba.f2vip.net/api/v1/client/subscribe?token=d12add60f0b2386c5af02b06a1d38658
 https://suba.f2vip.net/api/v1/client/subscribe?token=fa5edc251d0c8749211dac53aca3b2dd
-https://sub.flashcat.online/s/5216a39d51c732ad3bcc27c2527eee04
 https://sub.pusytroller.cf/?url=freenodes
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://v2clash.blog/Link/20260304-v2ray.txt
