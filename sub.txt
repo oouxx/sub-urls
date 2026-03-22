@@ -98,6 +98,7 @@ https://shz.al/YyWE
 https://shz.al/YyWE协议类型:
 https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
+https://suba.f2vip.net/api/v1/client/subscribe?token=425f5d422fe5cf889aaf5f90dd9a695a
 https://suba.f2vip.net/api/v1/client/subscribe?token=7191bdc5a3e36696e7eecec30ba072d8
 https://suba.f2vip.net/api/v1/client/subscribe?token=90aa4389cca874944e75f4e497b541e3
 https://suba.f2vip.net/api/v1/client/subscribe?token=955b011062b25daa640f363b84ceb921
@@ -107,10 +108,7 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=a42a99139c1aa0779d5a9d5857b
 https://suba.f2vip.net/api/v1/client/subscribe?token=be5a1e934e3afebb951c83bd4ca12e6c
 https://suba.f2vip.net/api/v1/client/subscribe?token=d12add60f0b2386c5af02b06a1d38658
 https://suba.f2vip.net/api/v1/client/subscribe?token=fa5edc251d0c8749211dac53aca3b2dd
-https://sub.flashcat.online/s/197ca902c88f8b22487127fc79b24eb8
-https://sub.flashcat.online/s/1e87056c52df4c4c18247798cf4c83c3
 https://sub.flashcat.online/s/5216a39d51c732ad3bcc27c2527eee04
-https://sub.flashcat.online/s/8b8a69162dd533bbd0e8a637a1fee0bd
 https://sub.pusytroller.cf/?url=freenodes
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://v2clash.blog/Link/20260304-v2ray.txt
