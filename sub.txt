@@ -4,6 +4,7 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=054c380fb822f328d4d8
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0e79c8408345e3dbef142e9230658328
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=1ce1de5d416527803f797684b951edb1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=58b0dcd1dc3ecd4f01ee9d41d44b55ea
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=68347aa562675f50f0298ce1cf0027e5
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7b6a2457937f04d5795939f16b37d58a
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7e8bacf1e068ce6480bee6cf8ce13ebf
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c026d8a00963c
@@ -131,6 +132,7 @@ https://xn--ehqa22b.site/s/57314cbc616e3358e1b55f41d33790fd
 https://xn--ehqa22b.site/s/5dfea086640583edeaeccb5f60321518
 https://xn--ehqa22b.site/s/63b97d15f1306a5a38fa092c7517bf3a
 https://xn--ehqa22b.site/s/694d94f9517962ea50aa992691af4096
+https://xn--ehqa22b.site/s/69b787c9a93a8b55cf79fef79fe07467
 https://xn--ehqa22b.site/s/6ad52c9f59495d5963eabc9c5eaa016e
 https://xn--ehqa22b.site/s/6b31cd5acd765a8a2fe64aa3ea35496e
 https://xn--ehqa22b.site/s/75afe126ea2eff563346d395a521dde9
