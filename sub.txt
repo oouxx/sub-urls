@@ -14,6 +14,7 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d8e593088d5e20882e4d
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=db76ccdbe04eac3b7ea8be100563ff23
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e7f8a9cad7fd8a8177376f26e802cd1a
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e945c5de48da9c892d1c4ae1d510d647
+https://api.nekocloud.top/api/v1/nekocloud/016ddfcf8da4956b6e54f5b979c89bc7
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
 https://carrot.kuaitucloud.top/ktc/428/ck/d78c0ccb0e7a699b3b56820206a2bf16
 https://cf-workers-sub-7zh.pages.dev/sub?token=7cd112216732c8db34cb6810f01bc778
