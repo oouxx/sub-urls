@@ -107,11 +107,7 @@ https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://suba.f2vip.net/api/v1/client/subscribe?token=18f2881373d76fc3fb6b358c9dce0702
 https://suba.f2vip.net/api/v1/client/subscribe?token=3ed6834aa4be366e2a19318a33123a31
-https://suba.f2vip.net/api/v1/client/subscribe?token=425f5d422fe5cf889aaf5f90dd9a695a
-https://suba.f2vip.net/api/v1/client/subscribe?token=90aa4389cca874944e75f4e497b541e3
 https://suba.f2vip.net/api/v1/client/subscribe?token=955b011062b25daa640f363b84ceb921
-https://suba.f2vip.net/api/v1/client/subscribe?token=d12add60f0b2386c5af02b06a1d38658
-https://suba.f2vip.net/api/v1/client/subscribe?token=fa5edc251d0c8749211dac53aca3b2dd
 https://sub.pusytroller.cf/?url=freenodes
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
