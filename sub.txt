@@ -10,7 +10,6 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a2427c88aa1b3495e6b098542e4649c2
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=ca113f5cb41303b025827e39178ab3ae
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d8e593088d5e20882e4d30f1cbac0125
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=db76ccdbe04eac3b7ea8be100563ff23
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e7f8a9cad7fd8a8177376f26e802cd1a
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e945c5de48da9c892d1c4ae1d510d647
 https://api.nekocloud.top/api/v1/nekocloud/016ddfcf8da4956b6e54f5b979c89bc7
@@ -70,7 +69,6 @@ https://rs6.r6r6.xyz/x/YDBtic4
 https://rs6.r6r6.xyz/x/ZwT9wp0
 https://shz.al
 https://shz.al/42BQ
-https://shz.al/5RyE
 https://shz.al/8Bkh
 https://shz.al/8Bkh协议类型:
 https://shz.al/aJH5
