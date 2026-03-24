@@ -1,7 +1,5 @@
-http://43.161.254.229/7cNKWc75kz2LfGPM/4350a18ce0944e58be9c2699635e2910
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0246e3a4badd3212eac97f36fd9f1cc9
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=15341c9085f2654401fa4b6778b959c0
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=1ce1de5d416527803f797684b951edb1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=68347aa562675f50f0298ce1cf0027e5
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7b6a2457937f04d5795939f16b37d58a
@@ -9,11 +7,6 @@ https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=806fdecf268b2c55ca18
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c026d8a00963c
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=896e5fead6d595f5a5689b90b3c26998
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a2427c88aa1b3495e6b098542e4649c2
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a2e02c650d25982aa4def98d369910a2
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d3482519768d4a2bc602550ad87619fc
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d8e593088d5e20882e4d30f1cbac0125
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e7f8a9cad7fd8a8177376f26e802cd1a
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e945c5de48da9c892d1c4ae1d510d647
 https://api.nekocloud.top/a
 https://api.nekocloud.top/api/v1/nekocloud/016ddfcf8da4956b6e54f5b979c89bc7
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
