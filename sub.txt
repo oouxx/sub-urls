@@ -37,8 +37,6 @@ https://rs6.r6r6.xyz/b/FIiBGpH
 https://rs6.r6r6.xyz/b/LhoMgas
 https://rs6.r6r6.xyz/c/4BbBCSS
 https://rs6.r6r6.xyz/c/A38Ip0g
-https://rs6.r6r6.xyz/c/FIiBGpH
-https://rs6.r6r6.xyz/c/fiyEGkj
 https://rs6.r6r6.xyz/c/fXpnF2m
 https://rs6.r6r6.xyz/c/gzTLzQK
 https://rs6.r6r6.xyz/c/LhoMgas
@@ -108,7 +106,9 @@ https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://suba.f2vip.net/api/v1/client/subscribe?token=18f2881373d76fc3fb6b358c9dce0702
 https://suba.f2vip.net/api/v1/client/subscribe?token=3ed6834aa4be366e2a19318a33123a31
+https://suba.f2vip.net/api/v1/client/subscribe?token=5261673448c40ecc3d3ff5824121e1fd
 https://suba.f2vip.net/api/v1/client/subscribe?token=955b011062b25daa640f363b84ceb921
+https://suba.f2vip.net/api/v1/client/subscribe?token=dbbe5dae01e2ef61a1c3906ae32bd8c6
 https://sub.pusytroller.cf/?url=freenodes
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
