@@ -1,7 +1,6 @@
 http://43.161.254.229/7cNKWc75kz2LfGPM/4350a18ce0944e58be9c2699635e2910
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0246e3a4badd3212eac97f36fd9f1cc9
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=054c380fb822f328d4d8d156ad8cdd79
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=15341c9085f2654401fa4b6778b959c0
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=1ce1de5d416527803f797684b951edb1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=68347aa562675f50f0298ce1cf0027e5
