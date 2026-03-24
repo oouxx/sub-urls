@@ -2,13 +2,15 @@ http://43.161.254.229/7cNKWc75kz2LfGPM/4350a18ce0944e58be9c2699635e2910
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0246e3a4badd3212eac97f36fd9f1cc9
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=054c380fb822f328d4d8d156ad8cdd79
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0e79c8408345e3dbef142e9230658328
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=1ce1de5d416527803f797684b951edb1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=68347aa562675f50f0298ce1cf0027e5
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=7b6a2457937f04d5795939f16b37d58a
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=841a027a69100a2e3b3c026d8a00963c
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a2427c88aa1b3495e6b098542e4649c2
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a2e02c650d25982aa4def98d369910a2
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a433f9ca72176ae47c25aa8334336f84
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=ca113f5cb41303b025827e39178ab3ae
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d3482519768d4a2bc602550ad87619fc
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d8e593088d5e20882e4d30f1cbac0125
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e7f8a9cad7fd8a8177376f26e802cd1a
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e945c5de48da9c892d1c4ae1d510d647
@@ -26,7 +28,6 @@ https://ly.ba000.cc/s/d194066d5d4e228a21aa7257554a69e9
 https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=15d2ac3e6e624caf72dd13304f939a45
 https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f
-https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKID
 https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9
 https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
