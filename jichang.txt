@@ -26,6 +26,23 @@ https://free-v2raynode.github.io/uploads/{Y}/{m}/2-{Ymd}.yaml
 https://free-v2raynode.github.io/uploads/{Y}/{m}/3-{Ymd}.yaml
 https://free-v2raynode.github.io/uploads/{Y}/{m}/4-{Ymd}.yaml
 
+https://yoyapai.com/mianfeijiedian/{Y}{m}{d}-clash-vpn-mfjiedian-yoyapai.com.yaml
+
+https://node.v2rayclash.cc/uploads/{Y}/{m}/0-{Ymd}.yaml
+https://node.v2rayclash.cc/uploads/{Y}/{m}/1-{Ymd}.yaml
+https://node.v2rayclash.cc/uploads/{Y}/{m}/2-{Ymd}.yaml
+https://node.v2rayclash.cc/uploads/{Y}/{m}/3-{Ymd}.yaml
+https://node.v2rayclash.cc/uploads/{Y}/{m}/4-{Ymd}.yaml
+
+https://oss.oneclash.cc/{Y}/{m}/{Y}{m}{d}.yaml
+https://static.v2rayshare.net/{Y}/{m}/{Y}{m}{d}.yaml
+
+https://node.v2rayshare.org/uploads/{Y}/{m}/0-{Ymd}.yaml
+https://node.v2rayshare.org/uploads/{Y}/{m}/1-{Ymd}.yaml
+https://node.v2rayshare.org/uploads/{Y}/{m}/2-{Ymd}.yaml
+https://node.v2rayshare.org/uploads/{Y}/{m}/3-{Ymd}.yaml
+https://node.v2rayshare.org/uploads/{Y}/{m}/4-{Ymd}.yaml
+
 https://mxlsub.qzz.io/free
 https://ctp.ct8.pl/9002.yaml
 https://rss.zyfx6.xyz/clash/
