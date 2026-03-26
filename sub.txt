@@ -1,7 +1,5 @@
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=0246e3a4badd3212eac97f36fd9f1cc9
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=38109caa98f27291e816f9136f371f6a
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a6615107773954b64afb1478c1598a9f
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d7f3e18d822ab5cf4a9e0958e61b14d7
 https://api.efanyunapi.com/clash/481015/6bauT23MCQ
 https://api.nekocloud.top/a
