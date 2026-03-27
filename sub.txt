@@ -35,6 +35,7 @@ https://rs6.r6r6.xyz/c/UEvvExN
 https://rs6.r6r6.xyz/c/WRAidT9
 https://rs6.r6r6.xyz/c/WRAidT9#免费
 https://rs6.r6r6.xyz/c/YDBtic4
+https://rs6.r6r6.xyz/c/YF95pH7
 https://rs6.r6r6.xyz/c/ZwT9wp0
 https://rs6.r6r6.xyz/c/ZwT9wp0#免费
 https://rs6.r6r6.xyz/x/4BbBCSS
@@ -56,6 +57,7 @@ https://rs6.r6r6.xyz/x/UEvvExN
 https://rs6.r6r6.xyz/x/WRAidT9
 https://rs6.r6r6.xyz/x/xyYmDKk
 https://rs6.r6r6.xyz/x/YDBtic4
+https://rs6.r6r6.xyz/x/YF95pH7
 https://rs6.r6r6.xyz/x/ZwT9wp0
 https://shz.al
 https://shz.al/8Bkh
@@ -93,6 +95,8 @@ https://shz.al/YyWE协议类型:
 https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://soonvpn.net/config?token=5d96ac3734cf452309f3ea61f04ac399
+https://soonvpn.net/config?token=b7a4921960a6a18ee48d49841cf264e3
+https://soonvpn.net/config?token=dc9dd2a27e4b6d62555f9c3509431d06
 https://suba.f2vip.net/api/v1/client/subscribe?token=02c1dae8bb7cf3842e7626f477a4b2ee
 https://suba.f2vip.net/api/v1/client/subscribe?token=18f2881373d76fc3fb6b358c9dce0702
 https://suba.f2vip.net/api/v1/client/subscribe?token=23468c2c9a5697fb91ad322e45d18638
