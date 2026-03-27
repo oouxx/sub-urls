@@ -1,5 +1,7 @@
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=8f09bc491135cbf13a2521730ad0f2e1
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=a6615107773954b64afb1478c1598a9f
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=ac99d55b02b150030b6d91934ee9de0b
 https://api.efanyunapi.com/clash/481015/6bauT23MCQ
 https://api.nekocloud.top/a
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
@@ -91,8 +93,11 @@ https://shz.al/YyWE
 https://shz.al/YyWE协议类型:
 https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
+https://soonvpn.net/config?token=5d96ac3734cf452309f3ea61f04ac399
+https://suba.f2vip.net/api/v1/client/subscribe?token=02c1dae8bb7cf3842e7626f477a4b2ee
 https://suba.f2vip.net/api/v1/client/subscribe?token=18f2881373d76fc3fb6b358c9dce0702
 https://suba.f2vip.net/api/v1/client/subscribe?token=23468c2c9a5697fb91ad322e45d18638
+https://suba.f2vip.net/api/v1/client/subscribe?token=29a63c2d45a665719d17851f624bb1c6
 https://suba.f2vip.net/api/v1/client/subscribe?token=2a42ebc2187e0bc51d06b20b532b12f5
 https://suba.f2vip.net/api/v1/client/subscribe?token=3ed6834aa4be366e2a19318a33123a31
 https://suba.f2vip.net/api/v1/client/subscribe?token=4a1f08ccc9331a8c737446538d1a28e1
