@@ -109,7 +109,6 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=9299aa5a3b1500f22bd6cfb396d
 https://suba.f2vip.net/api/v1/client/subscribe?token=9f10323936c22442ca476fb578543789
 https://suba.f2vip.net/api/v1/client/subscribe?token=ca1fa676b94f6302108c7597d1de3eae
 https://suba.f2vip.net/api/v1/client/subscribe?token=dfb1122e73c12d4e27a649c515e09426
-https://sub.pusytroller.cf/?url=freenodes
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
 https://v2clash.blog/Link/20260304-v2ray.txt
