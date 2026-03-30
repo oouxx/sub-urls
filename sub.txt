@@ -100,6 +100,7 @@ https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://suba.f2vip.net/api/v1/client/subscribe?token=0ec367738317569238c74314efe90406
 https://suba.f2vip.net/api/v1/client/subscribe?token=0fdd1a2cb6ec230b5e8ea0b1f1f0f3db
+https://suba.f2vip.net/api/v1/client/subscribe?token=1650c3709e8a92261d72ac04303f01cf
 https://suba.f2vip.net/api/v1/client/subscribe?token=1c2cbe64a4121ca1b6f0514b05ec6439
 https://suba.f2vip.net/api/v1/client/subscribe?token=29a63c2d45a665719d17851f624bb1c6
 https://suba.f2vip.net/api/v1/client/subscribe?token=2a42ebc2187e0bc51d06b20b532b12f5
@@ -107,6 +108,7 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=68056685dfe45c80095cdc48d27
 https://suba.f2vip.net/api/v1/client/subscribe?token=6b32ba737c3d0948515ad56a27f5415e
 https://suba.f2vip.net/api/v1/client/subscribe?token=79d2e747646dd9987126227d2d482d62
 https://suba.f2vip.net/api/v1/client/subscribe?token=7a6fa8d3743ae712d956c7a0471f1a24
+https://suba.f2vip.net/api/v1/client/subscribe?token=7b9bd6a7b58fc2f61e1e07d4216ca5cf
 https://suba.f2vip.net/api/v1/client/subscribe?token=9299aa5a3b1500f22bd6cfb396d5b5f3
 https://suba.f2vip.net/api/v1/client/subscribe?token=9ee437ce8c98c046610d347cccec35ba
 https://suba.f2vip.net/api/v1/client/subscribe?token=9f10323936c22442ca476fb578543789
