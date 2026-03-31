@@ -18,7 +18,6 @@ https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
 https://pro.crosswall.cc/api/v1/client/subscribe?token=9eeb26b3aa63a928f60626e24f58bf8f
 https://raoku-pm.hf.space/api/v1/subscribe?token=f1zk66yqufbze408132k7635
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://rs6.r6r6.xyz/b/A38Ip0g
 https://rs6.r6r6.xyz/b/BjaImsF
 https://rs6.r6r6.xyz/b/FIiBGpH
 https://rs6.r6r6.xyz/b/LhoMgas
