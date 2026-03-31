@@ -116,6 +116,8 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=ca1fa676b94f6302108c7597d1d
 https://suba.f2vip.net/api/v1/client/subscribe?token=d627ad7b0dc56c6b097149597e34a486
 https://suba.f2vip.net/api/v1/client/subscribe?token=dfb1122e73c12d4e27a649c515e09426
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=370839d4089cf32a003e81166b46a9ad
+https://sudaji.eepzau.org/api/v1/client/subscribe?token=8aa087f6dcc38b4b509c3bcec85b69ed
+https://sudaji.eepzau.org/api/v1/client/subscribe?token=ad3fe738dab6fd2d790ff367d0cb43bf
 https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
 https://v2clash.blog/Link/20260304-v2ray.txt
