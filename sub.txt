@@ -117,7 +117,6 @@ https://sudaji.eepzau.org/api/v1/client/subscribe?token=370839d4089cf32a003e8116
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=8aa087f6dcc38b4b509c3bcec85b69ed
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=a46d09ddfe19ff61d977e0589f4c2e25
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=fed8a35a2dbde11ca1e58096f5b0ccdb
-https://tg.iamdt002.dpdns.org/sub?token=b0b422857bb46aba65da8234c84f38c6
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
 https://userid.moviecloud.sbs/movie/b185ff38b75238b27ff003e15a96dd03
 https://userid.moviecloud.sbs/movie/bc5659b203a0db2f3064b2a56c768d0a
