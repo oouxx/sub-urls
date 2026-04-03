@@ -100,7 +100,6 @@ https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://suba.f2vip.net/api/v1/client/subscribe?token=c9ad44f4ceee014190178d1fcd3a2de2
 https://suba.f2vip.net/api/v1/client/subscribe?token=cc833e586787464bcf090be25e2da69f
-https://sub.pusytroller.cf/?url=freenodes
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=22ae44d07e798805ea60cc91b4e552a4
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=370839d4089cf32a003e81166b46a9ad
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=8aa087f6dcc38b4b509c3bcec85b69ed
