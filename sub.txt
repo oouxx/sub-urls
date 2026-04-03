@@ -5,6 +5,8 @@ https://api.nekocloud.top/a
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
 https://cac.adfgawidhioawjd.site/sub/4b30ba0528a42eea97539dcada5dd364
 https://cac.adfgawidhioawjd.site/sub/7454335049c8bf380e8b17be460fb418
+https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d
+https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
 https://cf-workers-sub-7zh.pages.dev/sub?token=7cd112216732c8db34cb6810f01bc778
 https://cloud.lanpanyun.store/link/6b7fe453e9ee8d1e4a481bb0024ddb7e
 https://dxheua.dhkvfug.cn/mdet/wdfs/heuy/?token=43d24348f2b6b737df428700ead702a5
@@ -19,6 +21,7 @@ https://ly.ba000.cc/s/d194066d5d4e228a21aa7257554a69e9
 https://lyly.649844.xyz/s/6c9c75cbd6c9972a207657eb46f7a2ab
 https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
 https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
+https://novc.f6net.net/api/v1/client/subscribe?token=5fe2a984b80a474054788eca96eda4a4
 https://pvsmi.no-mad-sub.one/link/pGx0WM9WgVZjILka?clash=3
 https://raoku-pm.hf.space/api/v1/subscribe?token=8uak3-ue1idoujz%2Ady6ooumx
 https://raoku-pm.hf.space/api/v1/subscribe?token=8uak3-ue1idoujz*dy6ooumx
@@ -98,6 +101,7 @@ https://shz.al/YyWE
 https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://suba.f2vip.net/api/v1/client/subscribe?token=6b32ba737c3d0948515ad56a27f5415e
+https://sub.pusytroller.cf/?url=freenodes
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=22ae44d07e798805ea60cc91b4e552a4
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=370839d4089cf32a003e81166b46a9ad
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=8aa087f6dcc38b4b509c3bcec85b69ed
