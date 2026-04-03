@@ -1,5 +1,4 @@
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
-https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=73e55c1d1af350b80253f87f2ce04c1a
 https://api.efanyunapi.com/clash/481015/6bauT23MCQ
 https://api.nekocloud.top/a
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
@@ -34,6 +33,7 @@ https://rs6.r6r6.xyz/c/4BbBCSS
 https://rs6.r6r6.xyz/c/4K27yw7
 https://rs6.r6r6.xyz/c/4vrxHL9
 https://rs6.r6r6.xyz/c/A861djn
+https://rs6.r6r6.xyz/c/AtpSqcm
 https://rs6.r6r6.xyz/c/fXpnF2m
 https://rs6.r6r6.xyz/c/hernvw6
 https://rs6.r6r6.xyz/c/hernvw6#免费
@@ -57,6 +57,7 @@ https://rs6.r6r6.xyz/x/4BbBCSS
 https://rs6.r6r6.xyz/x/4K27yw7
 https://rs6.r6r6.xyz/x/4vrxHL9
 https://rs6.r6r6.xyz/x/A861djn
+https://rs6.r6r6.xyz/x/AtpSqcm
 https://rs6.r6r6.xyz/x/aZrx6Rd
 https://rs6.r6r6.xyz/x/BLMAum8
 https://rs6.r6r6.xyz/x/E41HjiB
