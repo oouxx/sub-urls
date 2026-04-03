@@ -101,12 +101,14 @@ https://shz.al/ZWz7
 https://shz.al/ZWz7协议类型:
 https://suba.f2vip.net/api/v1/client/subscribe?token=6b32ba737c3d0948515ad56a27f5415e
 https://suba.f2vip.net/api/v1/client/subscribe?token=c9ad44f4ceee014190178d1fcd3a2de2
+https://suba.f2vip.net/api/v1/client/subscribe?token=cc833e586787464bcf090be25e2da69f
 https://sub.pusytroller.cf/?url=freenodes
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=22ae44d07e798805ea60cc91b4e552a4
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=370839d4089cf32a003e81166b46a9ad
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=8aa087f6dcc38b4b509c3bcec85b69ed
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=a46d09ddfe19ff61d977e0589f4c2e25
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=fed8a35a2dbde11ca1e58096f5b0ccdb
+https://sus.clodom.link/cloud/link/detail/ea21807c8dac12e3a6d9e82c8b4abb15
 https://tmrcfylw.qjty1.buzz/api/v2/user/token/494d13a95d4ca330a25b1e82f95bacb2
 https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
