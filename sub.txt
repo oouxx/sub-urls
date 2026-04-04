@@ -109,7 +109,6 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=c9ad44f4ceee014190178d1fcd3
 https://suba.f2vip.net/api/v1/client/subscribe?token=cc833e586787464bcf090be25e2da69f
 https://suba.f2vip.net/api/v1/client/subscribe?token=cd154c6f991822fbc34d05dc3fc3b84a
 https://sub.pusytroller.cf/?url=freenodes
-https://sub.zhilian.best/getjiedian/92ea94bd39b80424a044fea1833df91e
 https://sub.zhilian.best/getjiedian/c9201efaa9bf18c74a6a3fd333b1d7d9
 https://sub.zhilian.best/getjiedian/d058d7ea4de9390b35ba712a6f822c3f
 https://tmrcfylw.qjty1.buzz/api/v2/user/token/494d13a95d4ca330a25b1e82f95bacb2
