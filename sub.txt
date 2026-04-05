@@ -112,6 +112,7 @@ https://sub.pusytroller.cf/?url=freenodes
 https://sub.zhilian.best/getjiedian/846c636c45dd97c79a390bd347188655
 https://sub.zhilian.best/getjiedian/c9201efaa9bf18c74a6a3fd333b1d7d9
 https://sub.zhilian.best/getjiedian/d058d7ea4de9390b35ba712a6f822c3f
+https://sudaji.eepzau.org/api/v1/client/subscribe?token=1851a5d71d4ebe62ced658417b163f4c
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=22ae44d07e798805ea60cc91b4e552a4
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=8aa087f6dcc38b4b509c3bcec85b69ed
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=a46d09ddfe19ff61d977e0589f4c2e25
