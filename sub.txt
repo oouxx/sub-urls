@@ -110,7 +110,6 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=cd154c6f991822fbc34d05dc3fc
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.zhilian.best/getjiedian/c9201efaa9bf18c74a6a3fd333b1d7d9
 https://sub.zhilian.best/getjiedian/d058d7ea4de9390b35ba712a6f822c3f
-https://tmrcfylw.qjty1.buzz/api/v2/user/token/494d13a95d4ca330a25b1e82f95bacb2
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
 https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
 https://userid.moviecloud.sbs/movie/b185ff38b75238b27ff003e15a96dd03
