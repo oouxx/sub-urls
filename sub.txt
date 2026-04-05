@@ -1,4 +1,5 @@
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=02c5000650c146a019a713f4c44ff33f
 https://api.efanyunapi.com/clash/481015/6bauT23MCQ
 https://api.nekocloud.top/a
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
@@ -107,10 +108,7 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=c9ad44f4ceee014190178d1fcd3
 https://suba.f2vip.net/api/v1/client/subscribe?token=cc833e586787464bcf090be25e2da69f
 https://suba.f2vip.net/api/v1/client/subscribe?token=cd154c6f991822fbc34d05dc3fc3b84a
 https://sub.pusytroller.cf/?url=freenodes
-https://sudaji.eepzau.org/api/v1/client/subscribe?token=1851a5d71d4ebe62ced658417b163f4c
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=22ae44d07e798805ea60cc91b4e552a4
-https://sudaji.eepzau.org/api/v1/client/subscribe?token=a46d09ddfe19ff61d977e0589f4c2e25
-https://sudaji.eepzau.org/api/v1/client/subscribe?token=adc2453ad6dcc731e2f7e60ec1ec859f
 https://sudaji.eepzau.org/api/v1/client/subscribe?token=fed8a35a2dbde11ca1e58096f5b0ccdb
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
 https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
