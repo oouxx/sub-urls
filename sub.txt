@@ -20,7 +20,6 @@ https://novc.f6net.net/api/v1/client/subscribe?token=7a227fd56a15f5bf688388408e4
 https://novc.f6net.net/api/v1/client/subscribe?token=99cb584ebce444815075f222b72e1741
 https://novc.f6net.net/api/v1/client/subscribe?token=a622299cd0f5f9fd8027f5c34d882465
 https://novc.f6net.net/api/v1/client/subscribe?token=f6c4940dfc077f9f6470dd0065488082
-https://pvsmi.no-mad-sub.one/link/pGx0WM9WgVZjILka?clash=3
 https://raoku-pm.hf.space/api/v1/subscribe?token=8uak3-ue1idoujz%2Ady6ooumx
 https://raoku-pm.hf.space/api/v1/subscribe?token=8uak3-ue1idoujz*dy6ooumx
 https://raoku-pm.hf.space/api/v1/subscribe?token=f1zk66yqufbze408132k7635
