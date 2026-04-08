@@ -102,7 +102,6 @@ https://shz.al/mnhB协议类型:
 https://shz.al/ZWz7协议类型:
 https://suba.f2vip.net/api/v1/client/subscribe?token=236ea8f16f511b803abf6d368ae6114f
 https://suba.f2vip.net/api/v1/client/subscribe?token=f6317f324e581abdd5f46e5f619c44c1
-https://sub.pusytroller.cf/?url=freenodes
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
 https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
 https://userid.moviecloud.sbs/movie/b185ff38b75238b27ff003e15a96dd03
