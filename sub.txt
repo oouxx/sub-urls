@@ -1,4 +1,5 @@
 https://1343763932-2ducwnqrch.eu-frankfurt.tencentscf.com/api/v1/client/subscribe?token=3e5491f63328b9a5427f3daac800020e
+https://aier.eu.cc/sub?token=fc559fd62a07f8f30e293ad01528a0ce
 https://api.efanyunapi.com/clash/481015/6bauT23MCQ
 https://api.nekocloud.top/a
 https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
@@ -13,6 +14,7 @@ https://github.com/Archeb/opentrace/releases/tag/v1.5.1
 https://github.com/lapismyt/telegram_gifts_sniper?hl=zh-CN
 https://gwjvmthr.qjty1.buzz/api/v2/user/token/ed8341acf3999aef2d58640c9405b099
 https://link123.52pokemon99.cc/api/v1/client/subscribe?token=88c4057eb1896d5b1457ce7b906a640d
+https://link123.52pokemon99.cc/api/v1/client/subscribe?token=e0b2edc2436d4a4bea3af92931555e2a
 https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
 https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
 https://novc.f6net.net/api/v1/client/subscribe?token=01d090eb7236373c08a95f5f689bf411
@@ -27,7 +29,6 @@ https://raoku-pm.hf.space/api/v1/subscribe?token=f1zk66yqufbze408132k7635
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://rs6.r6r6.xyz/b/BjaImsF
 https://rs6.r6r6.xyz/b/FIiBGpH
-https://rs6.r6r6.xyz/b/LhoMgas
 https://rs6.r6r6.xyz/c/4BbBCSS
 https://rs6.r6r6.xyz/c/4K27yw7
 https://rs6.r6r6.xyz/c/4vCu9M5
@@ -45,7 +46,6 @@ https://rs6.r6r6.xyz/c/n5CO8Wc
 https://rs6.r6r6.xyz/c/n5CO8Wc#免费
 https://rs6.r6r6.xyz/c/OqDkLjk
 https://rs6.r6r6.xyz/c/PRjRAJW
-https://rs6.r6r6.xyz/c/UEvvExN
 https://rs6.r6r6.xyz/c/uYen2oy
 https://rs6.r6r6.xyz/c/V4ehgk0
 https://rs6.r6r6.xyz/c/wgUx4Dq
@@ -122,7 +122,6 @@ https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
 https://userid.moviecloud.sbs/movie/b185ff38b75238b27ff003e15a96dd03
 https://userid.moviecloud.sbs/movie/bc5659b203a0db2f3064b2a56c768d0a
 https://userid.moviecloud.sbs/movie/c6e42308ef600c29d890b39e19a9ec89
-https://v2clash.blog/Link/20260314-v2ray.txt
 https://vip.putata.eu.org/oao
 https://www.neteasegames.site/game/hot/?token=dc6c667cdba5cdbb68b118f3734cf9de
 https://www.xrayvip.com/free.txt
