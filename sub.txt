@@ -89,8 +89,6 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=f6317f324e581abdd5f46e5f619
 https://suba.f2vip.net/api/v1/client/subscribe?token=fbc847a512cba3ce604819abf1f75e69
 https://update.glados-config.com/subscribe/689432/48c0bb8/127280/servers
 https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
-https://userid.moviecloud.sbs/movie/b185ff38b75238b27ff003e15a96dd03
-https://userid.moviecloud.sbs/movie/bc5659b203a0db2f3064b2a56c768d0a
 https://userid.moviecloud.sbs/movie/c6e42308ef600c29d890b39e19a9ec89
 https://vip.putata.eu.org/oao
 https://www9.9th-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=d761cf14344d6ddd20663ef8c971b798
