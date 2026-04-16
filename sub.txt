@@ -79,7 +79,6 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=fbc847a512cba3ce604819abf1f
 https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
 https://userid.moviecloud.sbs/movie/c6e42308ef600c29d890b39e19a9ec89
 https://vip.putata.eu.org/oao
-https://www.neteasegames.site/game/hot/?token=dc6c667cdba5cdbb68b118f3734cf9de
 https://ytsub.top/v2.php?key=eyJwb3J0IjoyOTM3MSwicGFzc3dvcmQiOiI0ZjNhOTgwZiIsImFwcCI6InNoYWRvd3JvY2tldCJ9
 http://t.me/jisou?start=a_6285744907
 https://suba.f2vip.net/api/v1/client/subscribe?token=075123eead1a195b077f8ea29ab2691d
@@ -136,3 +135,7 @@ https://sub.zlwl.org/s/3137b361bb164acc7e79f65c8275b287
 https://sub.zlwl.org/s/56a8a22dcb7a911ef22ab61bd0812917
 https://sub.zlwl.org/s/d1a7812763c32ed3780fee6b82772f02
 https://cac.adfgawidhioawjd.site/sub/7454335049c8bf380e8b17be460fb418
+https://rs6.r6r6.xyz/c/OGl3cOm
+https://rs6.r6r6.xyz/x/OGl3cOm
+https://sub.pusytroller.gq/?url=freenodes
+https://sub.zlwl.org/s/f861dbcd594d9df9a045e7f2a2a44c07
