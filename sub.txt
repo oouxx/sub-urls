@@ -127,7 +127,6 @@ https://zh.momobaby.org/download/clash/b94b0fa4e0d653caaa50a383edd0512c74e813059
 https://suba.f2vip.net/api/v1/client/subscribe?token=261b07d057e2005c28aad6f6c185eae7
 https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
 https://suba.f2vip.net/api/v1/client/subscribe?token=c4422d4a64b9ef75b2cecc18024e1458
-https://www.yfjc.xyz/api/v1/client/subscribe?token=3400b86443e29cb49ab685e1fcf5afaa
 https://suba.f2vip.net/api/v1/client/subscribe?token=a8bb634deea11af550b7ccc52c3dfdb6
 https://rs6.r6r6.xyz/c/WwQIp4d
 https://rs6.r6r6.xyz/x/WwQIp4d
