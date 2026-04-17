@@ -13,7 +13,6 @@ https://raoku-pm.hf.space/api/v1/subscribe?token=f1zk66yqufbze408132k7635
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://rs6.r6r6.xyz/b/BjaImsF
 https://rs6.r6r6.xyz/b/FIiBGpH
-https://rs6.r6r6.xyz/c/4BbBCSS
 https://rs6.r6r6.xyz/c/4vCu9M5
 https://rs6.r6r6.xyz/c/4vrxHL9
 https://rs6.r6r6.xyz/c/8QnpDD7
