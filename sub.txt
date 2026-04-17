@@ -76,8 +76,6 @@ https://shz.al
 https://suba.f2vip.net/api/v1/client/subscribe?token=5e0be3bb578c8cf69905a7cbfdf271bd
 https://suba.f2vip.net/api/v1/client/subscribe?token=f6317f324e581abdd5f46e5f619c44c1
 https://suba.f2vip.net/api/v1/client/subscribe?token=fbc847a512cba3ce604819abf1f75e69
-https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
-https://userid.moviecloud.sbs/movie/c6e42308ef600c29d890b39e19a9ec89
 https://vip.putata.eu.org/oao
 https://ytsub.top/v2.php?key=eyJwb3J0IjoyOTM3MSwicGFzc3dvcmQiOiI0ZjNhOTgwZiIsImFwcCI6InNoYWRvd3JvY2tldCJ9
 http://t.me/jisou?start=a_6285744907
@@ -112,11 +110,9 @@ https://rs6.r6r6.xyz/x/LKvsOSK
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://raoku-pm.hf.space/api/v1/subscribe?token=3nl!1kdbk=56u6k-x0il
 https://raoku-pm.hf.space/api/v1/subscribe?token=3nl%211kdbk%3D56u6k-x0il
-https://userid.moviecloud.sbs/movie/cbe73d3e23526b4c07d88af0b794ce93
 https://y.kukeyun.cc/s/c46869919794245d2bf7bb0c9107450a
 https://rs6.r6r6.xyz/b/WSVwoiu
 https://rs6.r6r6.xyz/x/WSVwoiu
-https://userid.moviecloud.sbs/movie/96742bf89bdfc226cd9e2a6eaa598315
 https://zh.momobaby.org/download/clash/b94b0fa4e0d653caaa50a383edd0512c74e8130591b027892b4d8748cc323f85?config_name=KFC%E5%A4%A7%E7%8E%8B
 https://suba.f2vip.net/api/v1/client/subscribe?token=54ed51d52b2f315a6986a967ce27829e
 https://suba.f2vip.net/api/v1/client/subscribe?token=91f709f80eeaada6a3fa0e3745bd89a4
@@ -135,3 +131,5 @@ https://rs6.r6r6.xyz/c/OGl3cOm
 https://rs6.r6r6.xyz/x/OGl3cOm
 https://sub.zlwl.org/s/2866c6029d5a2f1faf3f4fa23d9b6ed4
 https://suba.f2vip.net/api/v1/client/subscribe?token=5dbcca3a115d02a388c327e6ffe7abf1
+https://subss.owg.dpdns.org/download/sub
+https://zhuhai.uk/
