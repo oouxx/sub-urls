@@ -131,3 +131,4 @@ https://zhuhai.uk
 https://api.skybridge.cc/nba/bi/gfw/d9bea8e267258aa461490dce1c419c76
 https://jkun.waimaosass.icu/api/v1/client/subscribe?token=6162b912d407f4814d7f9781d247d9f5
 https://jkun.waimaosass.icu/api/v1/client/subscribe?token=98d24511c50ea47b73f73d69bc109082
+https://jkun.waimaosass.icu/api/v1/client/subscribe?token=8b287b66a6cc053d6ead8e1aae1bd300
