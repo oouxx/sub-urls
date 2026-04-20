@@ -15,6 +15,8 @@ https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b4
 https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
 https://mojie.app/api/v1/client/subscribe?token=7b2524e8b617290404473801cf17aeed
 https://raoku-pm.hf.space/api/v1/subscribe?token=3nl%211kdbk%3D56u6k-x0il
+https://raoku-pm.hf.space/api/v1/subscribe?token=3nl%211kdbk%3D56u6k-x0il%E8%AE%A2%E9%98%85%E6%B5%81%E9%87%8F%EF%BC%9A8
+https://raoku-pm.hf.space/api/v1/subscribe?token=3nl%211kdbk%3D56u6k-x0il%E8%AE%A2%E9%98%85%E6%B5%81%E9%87%8F%EF%BC%9A83886
 https://raoku-pm.hf.space/api/v1/subscribe?token=8uak3-ue1idoujz%2Ady6ooumx
 https://raoku-pm.hf.space/api/v1/subscribe?token=f1zk66yqufbze408132k7635
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
