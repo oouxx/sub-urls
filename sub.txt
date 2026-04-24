@@ -16,7 +16,6 @@ https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b4
 https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=1d12dbff2f2bdd68b01518f3c2c94d55
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=3903474a85e08f730d6707d5c5cfe38f
-https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=5078775e09a5d6528590362888094453
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=5c0ea21c1c6b4de86603e8fb4e2c54db
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=6de604c2cf14d0ab4bd84117e6bb93a1
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=79eae6856cbfc7a88ef018e554df3cee
