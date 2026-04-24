@@ -22,7 +22,6 @@ https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=6de604c2cf14d0ab
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=79eae6856cbfc7a88ef018e554df3cee
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=80f76b9b0a92825e9aad9c8d2acb5bac
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=91093e3b64a9f6acf99c143f84b27093
-https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=9a70b1d5e8c77fae4679c658aba9732b
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=a4396abff60eacc547133d89dfac0db4
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=b1d337b0a0ae33a87678cae4aa2aaaba
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=cbeb3650ed00be4c4b892e23d6636aab
