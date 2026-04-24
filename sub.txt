@@ -1,5 +1,4 @@
 http://154.17.23.118:3385/api/v1/client/subscribe?token=095865abedb7c19f51745bfc28fa89d8
-https://2.342242.icu/api/v1/client/subscribe?token=301e67b91627af1dc3a5691f25a95734
 https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
 https://api.skybridge.cc/nba/bi/gfw/bdc4b8c7d518b4fb8c36da3c44e69e0f
