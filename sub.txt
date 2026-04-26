@@ -3,7 +3,6 @@ http://154.17.23.118:3385/api/v1/client/subscribe?token=4bb10d2f0f99951a5464abef
 https://2.342242.icu/api/v1/client/subscribe?token=fdeba462f4d949718e7137dc6e6d78e8
 https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
-https://api.eeox.net/api/v1/client/subscribe?token=26c3d8f5a4bceb3fa775bef267370e2b
 https://app.sublink.works/x/MGFDexI
 https://dxheua.dhkvfug.cn/mdet/wdfs/heuy/?token=43d24348f2b6b737df428700ead702a5
 https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/v2fgrjk
@@ -20,8 +19,6 @@ https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=5c0ea21c1c6b4de8
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=67e45dc0d0ad3dfbf28cddeb2f1ca1fd
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=6de604c2cf14d0ab4bd84117e6bb93a1
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=79eae6856cbfc7a88ef018e554df3cee
-https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=7fde46172137afbb339c6cfb9dedb000
-https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=80f76b9b0a92825e9aad9c8d2acb5bac
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=91093e3b64a9f6acf99c143f84b27093
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=a4396abff60eacc547133d89dfac0db4
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=b1d337b0a0ae33a87678cae4aa2aaaba
