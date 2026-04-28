@@ -101,6 +101,7 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=a0119066eb338bdab1d4cb7ffac
 https://suba.f2vip.net/api/v1/client/subscribe?token=a44be8ec598fcc90f4846884de1d2651
 https://suba.f2vip.net/api/v1/client/subscribe?token=ebe5cc145d4563c57d69d14f6dc55079
 https://suba.f2vip.net/api/v1/client/subscribe?token=fbc847a512cba3ce604819abf1f75e69
+https://wiki.hoki.work/zh/api
 https://www.xrayvip.com/free.txt
 https://xsus.jolqx.cn/api/v1/client/subscribe?token=322f05bfdd51cc1a7389ebe1197bd295
 https://xsus.jolqx.cn/api/v1/client/subscribe?token=8e4d658ab109c0367991889210f1f580
