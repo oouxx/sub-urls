@@ -1,5 +1,4 @@
 http://154.17.23.118:3385/api/v1/client/subscribe?token=095865abedb7c19f51745bfc28fa89d8
-http://154.17.23.118:3385/api/v1/client/subscribe?token=4bb10d2f0f99951a5464abef28ace343
 https://2.342242.icu/api/v1/client/subscribe?token=fdeba462f4d949718e7137dc6e6d78e8
 https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
@@ -22,7 +21,6 @@ https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=6de604c2cf14d0ab
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=91093e3b64a9f6acf99c143f84b27093
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=a4396abff60eacc547133d89dfac0db4
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=b1d337b0a0ae33a87678cae4aa2aaaba
-https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=e1e00c5784df91d18ef4c3c58ec07305
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=e7ef5be2baf264e70db98365c7c0f632
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=f6645026ec5b4bf975ea5791b40b0e4a
 https://niaodi.top/niao?token=b3fecfa30390d33a4643e2560722347e
