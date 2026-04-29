@@ -1,4 +1,9 @@
 http://154.17.23.118:3385/api/v1/client/subscribe?token=095865abedb7c19f51745bfc28fa89d8
+http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=561a1151e33239a1680fd2485d843634
+http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=70cfdf77b570a92927d2e93a275a3c18
+http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=e742256318b03821f8eabe1cea0c00bf
+http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=eb16cbd7f9556184ac6914b9a6c42a57
+http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=f284e25224958df10a25fe9d63d750b6
 https://2.342242.icu/api/v1/client/subscribe?token=fdeba462f4d949718e7137dc6e6d78e8
 https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
