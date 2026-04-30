@@ -12,7 +12,6 @@ http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=833cf6eb8bcf2447e9acd53
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=8583d4909909485911518f83df7b322e
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=a1ae4f7f621385b90d6a00a711a30d01
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=cad3a900dbd1a071add6fe7815e69746
-http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=ce6f2c95f133c4d3c6bed661ebd1b049
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=dbcf09bcd88eaab4dabdd64d2a2401f2
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=e742256318b03821f8eabe1cea0c00bf
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=eb16cbd7f9556184ac6914b9a6c42a57
