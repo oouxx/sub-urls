@@ -8,7 +8,6 @@ http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=6b0f3f7be0ece0f61ce3555
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=6b7c1aa325e0b3d2d3e382a452faaad4
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=70cfdf77b570a92927d2e93a275a3c18
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=833cf6eb8bcf2447e9acd53768289c0f
-http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=8583d4909909485911518f83df7b322e
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=9282ad681bff3b7f947ba53a4adf26df
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=a1ae4f7f621385b90d6a00a711a30d01
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=ce6f2c95f133c4d3c6bed661ebd1b049
@@ -80,7 +79,6 @@ https://rs6.r6r6.xyz/x/OqDkLjk
 https://rs6.r6r6.xyz/x/PRjRAJW
 https://rs6.r6r6.xyz/x/QpjJc1n
 https://rs6.r6r6.xyz/x/TSqV52t
-https://rs6.r6r6.xyz/x/VTi5o69
 https://rs6.r6r6.xyz/x/WRAidT9
 https://rs6.r6r6.xyz/x/WSVwoiu
 https://rs6.r6r6.xyz/x/WwQIp4d
@@ -89,7 +87,6 @@ https://rs6.r6r6.xyz/x/Xl5jDWH
 https://rs6.r6r6.xyz/x/YF95pH7
 https://rs6.r6r6.xyz/x/ZwT9wp0
 https://rs6.r6r6.xyz/x/aZrx6Rd
-https://rs6.r6r6.xyz/x/cYYnBQl
 https://rs6.r6r6.xyz/x/fUKtcEi
 https://rs6.r6r6.xyz/x/fiyEGkj
 https://rs6.r6r6.xyz/x/gzTLzQK
