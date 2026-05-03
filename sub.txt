@@ -23,6 +23,7 @@ https://2.342242.icu/api/v1/client/subscribe?token=fdeba462f4d949718e7137dc6e6d7
 https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
 https://GYKXQd.nicecloud.win:8443/api/v1/client/ba9afb03f303b578e1f72ce54c432546
 https://app.sublink.works/x/6CFt2Kg
+https://app.sublink.works/x/AhSVzGR
 https://app.sublink.works/x/KCWpEJd
 https://app.sublink.works/x/KqF0UPh
 https://app.sublink.works/x/MGFDexI
@@ -36,6 +37,7 @@ https://kalami-eew.pages.dev/sub?token=b1e112df393c9b147f4222ece3efb8c0
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
 https://mfvpn.fuchen.indevs.in/sub/3e96ef7d-8637-42c2-ac73-75182196e755
 https://niaodi.top/niao?token=b3fecfa30390d33a4643e2560722347e
+https://raw.githubusercontent.com/9166619/nodes/refs/heads/main/nodes.txt
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://rs6.r6r6.xyz/b/BjaImsF
 https://rs6.r6r6.xyz/b/FIiBGpH
