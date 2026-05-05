@@ -109,4 +109,5 @@ https://xsus.jolqx.cn/api/v1/client/subscribe?token=8e4d658ab109c0367991889210f1
 https://xsus.jolqx.cn/api/v1/client/subscribe?token=c5fab0a4475da0e0055aeaeac27a935a
 https://y.kukeyun.cc/s/c46869919794245d2bf7bb0c9107450a
 https://y.kukeyun.cc/s/e61300b406c65587cd77372a4e9a7a93
+https://ymjc.cfd/api/v1/client/subscribe?token=0ddddf3a3d06c34189054704925df22e
 https://ytsub.top/v2.php?key=eyJwb3J0IjoyOTM3MSwicGFzc3dvcmQiOiI0ZjNhOTgwZiIsImFwcCI6InNoYWRvd3JvY2tldCJ9
