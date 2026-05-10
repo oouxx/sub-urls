@@ -102,6 +102,7 @@ https://rs6.r6r6.xyz/x/uYen2oy
 https://rs6.r6r6.xyz/x/xyYmDKk
 https://rs6.r6r6.xyz/x/yMAapbu
 https://rs6.r6r6.xyz/x/zWOwvSg
+https://suba.f2vip.net/api/v1/client/subscribe?token=25625ba817498f35bf5f06bf1a3c7e19
 https://suba.f2vip.net/api/v1/client/subscribe?token=5043e30bd6dd419f4b8f5405f06c202a
 https://suba.f2vip.net/api/v1/client/subscribe?token=70029b205a552037d74bc61acd453780
 https://suba.f2vip.net/api/v1/client/subscribe?token=8ac43a78d394839f0e0b681f4765bff3
