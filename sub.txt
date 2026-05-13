@@ -18,6 +18,7 @@ http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=f284e25224958df10a25fe9
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=f83c76fd1de3f536d9b75b320f03cbce
 http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=fdf993cd351a58e4bc40f85270a7591a
 https://2.342242.icu/api/v1/client/subscribe?token=fdeba462f4d949718e7137dc6e6d78e8
+https://app.sublink.works/x/1NnBrXt
 https://app.sublink.works/x/5A1krBT
 https://app.sublink.works/x/5eU2Gxh
 https://app.sublink.works/x/5eq4DwG
