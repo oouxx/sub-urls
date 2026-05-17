@@ -26,7 +26,6 @@ https://2.342242.icu/api/v1/client/subscribe?token=8def31340a7836f1eeb1dbc156cad
 https://2.342242.icu/api/v1/client/subscribe?token=9166732e3774faec33490f8c4589e701
 https://2.342242.icu/api/v1/client/subscribe?token=af06cbdbb2ffc50b3f2a6d8e5a452e35
 https://2.342242.icu/api/v1/client/subscribe?token=e9fa24284c2e31f585cfe1d489389d80
-https://2.342242.icu/api/v1/client/subscribe?token=ef51843f1af773e3f8f713c43f6338c2
 https://2.342242.icu/api/v1/client/subscribe?token=fdeba462f4d949718e7137dc6e6d78e8
 https://app.sublink.works/x/1NnBrXt
 https://app.sublink.works/x/5A1krBT
