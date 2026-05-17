@@ -20,7 +20,6 @@ http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=fdf993cd351a58e4bc40f85
 https://2.342242.icu/api/v1/client/subscribe?token=14c8842965166dec33ec3393221939cf
 https://2.342242.icu/api/v1/client/subscribe?token=44a82ececfcba07da169dc422e2fcf63
 https://2.342242.icu/api/v1/client/subscribe?token=7d0ce274bb37945244ded56cb8efdcaa
-https://2.342242.icu/api/v1/client/subscribe?token=7e2743f810e3454cf54af20ac926c95e
 https://2.342242.icu/api/v1/client/subscribe?token=85de959cf6faafb3892ebf3f2941a968
 https://2.342242.icu/api/v1/client/subscribe?token=8def31340a7836f1eeb1dbc156cadced
 https://2.342242.icu/api/v1/client/subscribe?token=9166732e3774faec33490f8c4589e701
