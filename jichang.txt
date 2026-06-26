@@ -8,7 +8,6 @@ https://snippets.o00o.ooo/vless
 https://rss.zyfx6.xyz/v2rayNG/
 https://ovo.subikun.nyc.mn/
 
-
 https://free.datiya.com/uploads/{Ymd}-clash.yaml
 https://node.freeclashnode.com/uploads/{Y}/{m}/0-{Ymd}.yaml
 https://node.freeclashnode.com/uploads/{Y}/{m}/1-{Ymd}.yaml
@@ -44,5 +43,11 @@ https://node.v2rayshare.org/uploads/{Y}/{m}/3-{Ymd}.yaml
 https://node.v2rayshare.org/uploads/{Y}/{m}/4-{Ymd}.yaml
 
 https://mxlsub.qzz.io/free
-https://ctp.ct8.pl/9002.yaml
 https://rss.zyfx6.xyz/clash/
+
+
+https://openclashnode.github.io/uploads/{Y}/{m}/0-{Ymd}.txt
+https://openclashnode.github.io/uploads/{Y}/{m}/1-{Ymd}.txt
+https://openclashnode.github.io/uploads/{Y}/{m}/2-{Ymd}.txt
+https://openclashnode.github.io/uploads/{Y}/{m}/3-{Ymd}.txt
+https://openclashnode.github.io/uploads/{Y}/{m}/4-{Ymd}.txt

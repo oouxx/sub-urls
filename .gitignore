@@ -1,1 +1,7 @@
 rss*
+.venv
+.ruff_cache
+.python-version
+__pycache__
+pyproject.toml
+uv.lock
