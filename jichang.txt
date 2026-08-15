@@ -4,22 +4,8 @@ https://rahi-eq3.pages.dev/api/configs?limit=all
 https://oeo-3pb.pages.dev/oeo
 https://rigengjiedian.one/api/system/subscribe
 https://snippets.o00o.ooo/vless
-https://rss.zyfx6.xyz/v2rayNG/
 https://www.xrayvip.com/free.txt
 https://free.datiya.com/uploads/{Ymd}-clash.yaml
-https://clashbest.github.io/uploads/{Y}/{m}/0-{Ymd}.yaml
-https://clashbest.github.io/uploads/{Y}/{m}/1-{Ymd}.yaml
-https://clashbest.github.io/uploads/{Y}/{m}/2-{Ymd}.yaml
-https://clashbest.github.io/uploads/{Y}/{m}/3-{Ymd}.yaml
-https://clashbest.github.io/uploads/{Y}/{m}/4-{Ymd}.yaml
-https://free-v2raynode.github.io/uploads/{Y}/{m}/0-{Ymd}.yaml
-https://free-v2raynode.github.io/uploads/{Y}/{m}/1-{Ymd}.yaml
-https://free-v2raynode.github.io/uploads/{Y}/{m}/2-{Ymd}.yaml
-https://free-v2raynode.github.io/uploads/{Y}/{m}/3-{Ymd}.yaml
-https://free-v2raynode.github.io/uploads/{Y}/{m}/4-{Ymd}.yaml
-
-https://yoyapai.com/mianfeijiedian/{Y}{m}{d}-clash-vpn-mfjiedian-yoyapai.com.yaml
-
 
 https://oss.oneclash.cc/{Y}/{m}/{Y}{m}{d}.yaml
 https://static.v2rayshare.net/{Y}/{m}/{Y}{m}{d}.yaml
@@ -29,11 +15,5 @@ https://mxlsub.qzz.io/free
 https://rss.zyfx6.xyz/clash/
 
 
-https://openclashnode.github.io/uploads/{Y}/{m}/0-{Ymd}.txt
-https://openclashnode.github.io/uploads/{Y}/{m}/1-{Ymd}.txt
-https://openclashnode.github.io/uploads/{Y}/{m}/2-{Ymd}.txt
-https://openclashnode.github.io/uploads/{Y}/{m}/3-{Ymd}.txt
-https://openclashnode.github.io/uploads/{Y}/{m}/4-{Ymd}.txt
 https://mar.bbc.xx.kg/?sub
-https://sub.pusytroller.gq/?url=freenodes
 https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
