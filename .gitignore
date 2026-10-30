@@ -1,14 +1,37 @@
-rss*
-.venv
-.ruff_cache
+# ── checker 运行产物 ─────────────────────────────
+# 工作目录：内核二进制、抓取的原始订阅、等
+.check-work/
+
+# ── Python ──────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
 .python-version
-__pycache__
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
 pyproject.toml
 uv.lock
 
-# checker 运行产物 / 本地环境
-.check-work/
-venv/
+# ── 日志与临时文件 ───────────────────────────────
 *.log
-*.pyc
+*.tmp
+*.swp
+*~
+
+# ── macOS ───────────────────────────────────────
 .DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# ── 编辑器 / IDE ─────────────────────────────────
+.idea/
+.vscode/
+
+# ── 其它 ────────────────────────────────────────
+# 旧的 RSS 相关产物
+rss*
