@@ -5,3 +5,10 @@ rss*
 __pycache__
 pyproject.toml
 uv.lock
+
+# checker 运行产物 / 本地环境
+.check-work/
+venv/
+*.log
+*.pyc
+.DS_Store
